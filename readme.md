@@ -1,3 +1,3 @@
 # Shopping List
 
-shopping list website using javascript
+Shopping list website using Javascript, HTML & CSS.
